@@ -1,0 +1,118 @@
+*{
+    box-sizing: border-box;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+span,a{
+    display: inline-block;
+}
+.all{
+    background-color: rgba(0, 0, 0, 0.596);
+    color: white;
+    padding: 50px;
+}
+.a{
+    text-decoration: none;
+    color: white;
+}
+.katta{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;  
+    flex-wrap: wrap; 
+}
+.a1{
+    color: rgba(6, 221, 6, 0.934);
+    text-decoration: none;
+}
+.btn{
+    color: white;
+    background-color: rgb(47, 205, 47);
+    padding: 10px 25px;
+    border-radius: 7px;
+    border: none;
+}
+.big{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.p2{
+    width: 500px;
+}
+.p3{
+    width: 300px;
+}
+.boshqa{
+    background-color: rgba(0, 0, 0, 0.812);
+}
+.center,.center2,.center3{
+    background-color:rgba(255, 255, 255, 0.156);
+}
+.kichik{
+    background-color: rgba(0, 0, 0, 0.388);
+}
+.rasmlar{
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.birinchi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.knopka{
+    color: white;
+    background-color: rgba(242, 242, 242, 0.356);
+    padding: 10px 25px;
+    border-radius: 7px;
+    border: none;
+}
+.bigger{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    background-color: rgba(0, 0, 0, 0.286);
+    margin-top: 10px;
+}
+.knopka1{
+    color: white;
+    background-color: greenyellow;
+    padding: 10px 25px;
+    border-radius: 7px;
+    border: none;
+}
+.left{
+    background-color: rgba(0, 0, 0, 0.368);
+}
+.divlar{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 700px;
+}
+.a2{
+    text-decoration: none;
+    color: rgb(9, 87, 244) ;
+}
+.a3{
+    text-decoration: none;
+    color: blue;
+}
+.a4{
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.688);
+}
+.a5{
+    text-decoration: none;
+    color: rgb(1, 1, 82);
+}
+.bir{
+    background-color: rgba(0, 0, 0, 0.326);
+}
